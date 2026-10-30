@@ -1,0 +1,9 @@
+HAUL,TIME_OF_DAY,tier1_pct_potential,tier2_pct,tier3_pct
+LONG,Afternoon,0.2,2.77,10.52
+LONG,Evening,0.21,2.67,10.26
+LONG,Lunchtime,0.18,2.71,10.38
+LONG,Morning,0.21,2.79,10.63
+SHORT,Afternoon,0.34,4.31,16.59
+SHORT,Evening,0.33,4.45,17.0
+SHORT,Lunchtime,0.39,4.55,17.28
+SHORT,Morning,0.34,4.36,16.74
